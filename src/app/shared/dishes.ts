@@ -139,8 +139,8 @@ export const DISHES: Dish[] = [
         description: 'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
         comments: [
             {
-                rating: 5,
-                comment: 'Imagine all the eatables, living in conFusion!',
+                rating: 4,
+                comment: 'It looks good. Tasted better than I thought!',
                 author: 'John Lemon',
                 date: '2012-10-16T17:57:28.556094Z'
             },
@@ -152,7 +152,7 @@ export const DISHES: Dish[] = [
             },
             {
                 rating: 3,
-                comment: 'Eat it, just eat it!',
+                comment: 'I did not like the taste!',
                 author: 'Michael Jaikishan',
                 date: '2015-02-13T17:57:28.556094Z'
             },
